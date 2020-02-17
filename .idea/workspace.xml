@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c3d4bb-e780-45ed-9896-1f4cf257ed94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDKSlhJ3B2KaWiselvmg6UAB2s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php2 readit\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c3d4bb-e780-45ed-9896-1f4cf257ed94" name="Default Changelist" comment="" />
+      <created>1580575227054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580575227054</updated>
+      <workItem from="1580575229853" duration="4024000" />
+      <workItem from="1580650657667" duration="3971000" />
+      <workItem from="1580798714688" duration="18628000" />
+      <workItem from="1580884967033" duration="18606000" />
+      <workItem from="1580988732573" duration="6750000" />
+      <workItem from="1580995746370" duration="37000" />
+      <workItem from="1581072349202" duration="219000" />
+      <workItem from="1581086151000" duration="1632000" />
+      <workItem from="1581115730250" duration="4988000" />
+      <workItem from="1581278921320" duration="4492000" />
+      <workItem from="1581317321726" duration="16896000" />
+      <workItem from="1581359042162" duration="1068000" />
+      <workItem from="1581491847762" duration="18918000" />
+      <workItem from="1581594441491" duration="4297000" />
+      <workItem from="1581664075401" duration="15986000" />
+      <workItem from="1581961878536" duration="1541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581282286798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1581282286798" />
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1581117707398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581117707398" />
+    <state x="445" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580576892266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1580576892266" />
+    <state x="495" y="199" key="NewPhpClassDialog" timestamp="1581359835551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="199" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1581359835551" />
+    <state x="517" y="296" key="NewPhpFileDialog" timestamp="1581359800333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="296" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1581359800333" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1581359129925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581359129925" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1581782227457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581782227457" />
+    <state x="375" y="220" width="665" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1580575405711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="220" width="665" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1580575405711" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1581872453828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581872453828" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580853183220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580853183220" />
+  </component>
+</project>
